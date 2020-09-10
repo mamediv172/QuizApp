@@ -1,4 +1,4 @@
-package com.example.quizappvi.ui;
+package com.example.quizappvi.ui.history;
 
 import androidx.lifecycle.ViewModel;
 

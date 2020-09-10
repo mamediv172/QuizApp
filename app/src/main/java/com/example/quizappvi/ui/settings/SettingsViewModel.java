@@ -1,4 +1,4 @@
-package com.example.quizappvi.ui;
+package com.example.quizappvi.ui.settings;
 
 import androidx.lifecycle.ViewModel;
 

@@ -5,9 +5,9 @@ import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
 
-import com.example.quizappvi.ui.fragments.HistoryFragment;
-import com.example.quizappvi.ui.fragments.MainFragment;
-import com.example.quizappvi.ui.fragments.SettingsFragment;
+import com.example.quizappvi.ui.history.HistoryFragment;
+import com.example.quizappvi.ui.main.MainFragment;
+import com.example.quizappvi.ui.settings.SettingsFragment;
 
 public class MainPagerAdapter extends FragmentPagerAdapter {
 

@@ -1,4 +1,4 @@
-package com.example.quizappvi.ui.fragments;
+package com.example.quizappvi.ui.settings;
 
 import androidx.lifecycle.ViewModelProviders;
 
@@ -13,7 +13,6 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.example.quizappvi.R;
-import com.example.quizappvi.ui.SettingsViewModel;
 
 public class SettingsFragment extends Fragment {
 
